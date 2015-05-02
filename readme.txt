@@ -21,4 +21,9 @@ Best way to install is using your WordPress Dashboard!
 == Changelog ==
 
 = 1.0 =
-First Release
+
+- First Release
+
+== Development ==
+
+This plugin is developed over at [Github](https://github.com/aubreypwd/remove-protected) and is deployed here with each release.
