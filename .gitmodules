@@ -1,0 +1,3 @@
+[submodule "deploy-git-wordpress-org"]
+	path = deploy-git-wordpress-org
+	url = https://github.com/aubreypwd/deploy-git-wordpress-org
