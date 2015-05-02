@@ -29,4 +29,4 @@ Version: 1.0.1
  */
 
 // Plugin Base Class
-require_once( 'aubreypwd-remove-protected-core.php' );
+require_once( 'class-aubreypwd-remove-protected-core.php' );
