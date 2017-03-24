@@ -1,5 +1,4 @@
 <?php
-
 /*
 Plugin Name: Remove Protected
 Description: This small plugin will remove "Protected: " from your title names on pages that are password protected.
