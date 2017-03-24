@@ -8,15 +8,15 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Small script that removes "Protected:" from titles of posts and pages that are password protected.
+Small script that removes *Protected:* and *Private:* from titles of posts and pages that are password protected and private.
 
 == Description ==
 
-Small script that removes "Protected:" from titles of posts and pages that are password protected.
+Small script that removes *Protected:* and *Private:* from titles of posts and pages that are password protected and private.
 
 == Installation ==
 
-Best way to install is using your WordPress Dashboard!
+Best way to install is using your WordPress Dashboard, just go to Plugins > Add New and search for it!
 
 == Changelog ==
 
@@ -35,4 +35,5 @@ Best way to install is using your WordPress Dashboard!
 
 == Development ==
 
-This plugin is developed over at [Github](https://github.com/aubreypwd/remove-protected) and is deployed here with each release.
+This plugin is developed over at [Github](https://github.com/aubreypwd/remove-protected) if you want
+to contribute.
