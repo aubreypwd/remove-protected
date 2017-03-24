@@ -20,6 +20,11 @@ Best way to install is using your WordPress Dashboard!
 
 == Changelog ==
 
+= 1.0.2 =
+
+- Code cleanup
+- Added new filter, `aubreypwd_remove_protected_disabled`, that you can set to `true` to disable what this plugin does
+
 = 1.0.1 =
 
 - Some re-work as a class-based plugin
